@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+:root {
+    --nextra-primary-hue: 113;
+    --nextra-primary-saturation: 11;
+    --nextra-primary-lightness: 16;
+    --tw-text-opacity: 1;
+  }
+
+body {
+    font-family: "Inter", 'SF Pro Text', 'SF Pro Icons', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.nextra-nav-container {
+    margin-bottom: 32px;
+}
+
+.nextra-focus {
+    background-color: transparent;
+    border-radius: 0px;
+}
+
+._text-gray-500 {
+    color: hsla(135, 2%, 43%, var(--tw-text-opacity));
+}
+
