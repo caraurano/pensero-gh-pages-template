@@ -12,6 +12,3 @@ export default withNextra({
   },
   basePath: "/pensero-gh-pages-template"
 })
- 
-// If you have other Next.js configurations, you can pass them as the parameter:
-// export default withNextra({ /* other next.js config */ })
